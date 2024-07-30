@@ -1,8 +1,7 @@
 # 💫 About Me:
 Profile for participation in course DevOps and Kubernetes. Practical intensive+<br>My name is Vadym and I learningholic )
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+[![Certifications](https://github-readme-widgets.vercel.app/api?username=ashishsinghbaghel)](https://github.com/mechdeveloper/github-readme-widgets)
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xF0) 
